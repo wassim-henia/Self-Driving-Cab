@@ -6,7 +6,8 @@
 Consider the scenario of teaching a dog new tricks. The dog doesn't understand our language, so we can't tell him what to do. Instead, we follow a different strategy. We emulate a situation (or a cue), and the dog tries to respond in many different ways. If the dog's response is the desired one, we reward them with snacks. Now guess what, the next time the dog is exposed to the same situation, the dog executes a similar action with even more enthusiasm in expectation of more food. That's like learning "what to do" from positive experiences. Similarly, dogs will tend to learn what not to do when face with negative experiences
 
 ### 2) The Reinforcement Learning Process
-![](https://www.learndatasci.com/documents/14/Reinforcement-Learning-Animation.gif)
+
+![](Reinforcement-Learning-Animation.gif)
 
 In a way, Reinforcement Learning is the science of making optimal decisions using experiences. Breaking it down, the process of Reinforcement Learning involves these simple steps:
 
